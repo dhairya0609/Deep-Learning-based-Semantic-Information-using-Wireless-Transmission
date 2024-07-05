@@ -1,0 +1,2 @@
+Link to the dataset - 
+https://keithito.com/LJ-Speech-Dataset/
