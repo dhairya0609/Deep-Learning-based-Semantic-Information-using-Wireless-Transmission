@@ -28,14 +28,3 @@ DeepSC-ST compresses speech data into low-dimensional textual semantic features,
 ## Future Scope
 - **Expansion to Other Media**: Currently limited to audio and text, DeepSC-ST could be extended to support other media types, such as images and videos.
 - **Enhanced Robustness**: Further improvements can be made to handle varying channel conditions and imperfect CSI more effectively.
-
-## Team Learning
-This project was conducted as part of the ECE310 course under the guidance of Dr. Dhaval K. Patel and teaching assistant Kashish Shah. The collaborative effort enhanced understanding of semantic features, model training, and their application to real-world wireless communication challenges. Breaking the problem into smaller segments facilitated clarity and effective teamwork.
-
-## References
-- Brownllee, J. (2020, August 5). How to prepare univariate time series data for long short-term memory networks. MachineLearningMastery.com.
-- Deep Joint Source-channel coding for Semantic Communications. arXiv.org.
-- A demo of Semantic Communication. IEEE conference.
-- Europar Parallel copies. statand.org.
-- How to read a paper. SIGCOMM.
-- IEEE Xplore Full-text PDF.
